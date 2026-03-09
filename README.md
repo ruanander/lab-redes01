@@ -71,3 +71,23 @@ Gateway: 192.168.0.1
 | Roteador | Estático | 192.168.0.1 | IP do Roteador |
 | Impressora | Reserva DHCP | 192.168.0.105 | IP Pelo Roteador |
 | PC1 | Reserva DHCP | 192.168.0.102 | IP reservado Pelo Roteador |
+| PC2 | DHCP | Automático | IP Atribuido Pelo Roteador |
+
+**Observação**
+ - A impressora e um dos notebooks utilizam reserva DHCP.
+ - O roteador sempre atribui o mesmo endereço IP a esse dispositivo.
+
+---
+
+## 5. Implementação no Laboratorio Real
+
+Após a instalação, a rede foi montada fisicamente no laboratório.
+
+Etapas Reaalizadas:
+
+(fotos - Capturas de tela realizadas durante o laboratório)
+
+Teste:
+
+(fotos - Capturas de tela realizadas durante o laboratório)
+
