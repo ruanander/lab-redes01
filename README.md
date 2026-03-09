@@ -91,3 +91,15 @@ Teste:
 
 (fotos - Capturas de tela realizadas durante o laboratório)
 
+---
+
+## 6. Conclusão 
+
+Este Laboratório permitiu compreender o funcionamento de uma rede local simples, incluindo:
+
+- Estrutura de uma rede doméstica ou de pequeno escritório
+- Utilização de um roteador com portam WAN e portas LAN
+- Funcionamento do DHCP
+- Comunicação entre dispositivos na rede local
+- Utilização de uma impressora de rede
+- Compartilhamento de pastas na rede
