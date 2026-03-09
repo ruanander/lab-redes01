@@ -57,3 +57,17 @@ Router --> |LAN 4| Printer
 Imagem da Topologia utilizada no laboratório:
 
 ![.](Topologia.png)
+
+---
+
+## 4. Plano de endereçamento IP
+
+Rede: 192.168.0.0/24
+
+Gateway: 192.168.0.1
+
+| Dispositivo | Tipo de IP | Endereço IP | Observação |
+|-------------|-------------|-------------|-------------|
+| Roteador | Estático | 192.168.0.1 | IP do Roteador |
+| Impressora | Reserva DHCP | 192.168.0.105 | IP Pelo Roteador |
+| PC1 | Reserva DHCP | 192.168.0.102 | IP reservado Pelo Roteador |
